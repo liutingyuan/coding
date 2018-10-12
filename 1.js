@@ -1,4 +1,5 @@
 /**
+ * 输入一个数组和一个目标值，找出数组中两项和为目标值的所有组合，输出索引。
  * @param {number[]} nums
  * @param {number} target
  * @return {number[]}
